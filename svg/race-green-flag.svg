@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 235 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-1364.5,-94.3333)">
+        <g transform="matrix(1,0,0,1,0,-350)">
+            <g id="green-flag" serif:id="green flag" transform="matrix(1,0,0,1,1160,0)">
+                <g transform="matrix(1,0,0,1,-660,-494)">
+                    <rect x="864.5" y="938.333" width="235" height="235" style="fill:url(#_Linear1);"/>
+                </g>
+                <g id="Flag" transform="matrix(0.96572,0.259585,-0.259585,0.96572,165.29,-96.6865)">
+                    <g transform="matrix(0.96572,-0.259585,0.259585,0.96572,-974.702,362.117)">
+                        <path d="M1147.69,490.623C1147.69,490.623 1161.97,488.328 1174.09,492.543C1196.13,500.207 1217.07,516.301 1239.54,522.562C1257.2,527.482 1280.06,522.063 1280.06,522.063L1261.89,589.664C1261.89,589.664 1239.04,595.083 1221.37,590.163C1198.89,583.901 1177.96,567.807 1155.92,560.144C1143.8,555.928 1129.52,558.223 1129.52,558.223L1147.69,490.623Z" style="fill:rgb(11,105,16);"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-580,0)">
+                        <path d="M841,538C841,538 854.197,532.076 867,533C890.274,534.68 914.667,544.788 938,545C956.333,545.167 977,534 977,534" style="fill:none;stroke:white;stroke-width:10px;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-580,70)">
+                        <path d="M841,538C841,538 854.197,532.076 867,533C890.274,534.68 914.667,544.788 938,545C956.333,545.167 977,534 977,534" style="fill:none;stroke:white;stroke-width:10px;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-580,0)">
+                        <path d="M977,534L977,604" style="fill:none;stroke:white;stroke-width:10px;"/>
+                    </g>
+                    <g transform="matrix(1,-5.55112e-17,0,1.09471,-580,-49.9122)">
+                        <path d="M841,691L841,527" style="fill:none;stroke:white;stroke-width:9.54px;"/>
+                    </g>
+                    <g transform="matrix(1.64286,0,0,1.64286,-1169.93,-335.786)">
+                        <circle cx="871" cy="520" r="7" style="fill:white;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.43896e-14,-235,235,1.43896e-14,982,1173.33)"><stop offset="0" style="stop-color:rgb(0,67,66);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,148,145);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
